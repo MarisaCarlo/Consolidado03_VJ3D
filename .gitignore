@@ -1,0 +1,49 @@
+# Unity - carpetas generadas
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+
+# Archivos generados por Unity
+sysinfo.txt
+mono_crash.*
+ExportedObj/
+
+# Builds compiladas
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Archivos temporales de pruebas
+/Assets/Resources/PerformanceTestRun*.json
+/Assets/Resources/PerformanceTestRun*.json.meta
+.vscode/
